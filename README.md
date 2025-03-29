@@ -2,7 +2,8 @@
 Bem-vindo ao meu portfólio de Ciência de Dados! Este repositório contém uma coleção dos projetos que realizei durante o meu aprendizado e aplicação da Ciência de Dados. Cada projeto é um exemplo prático de como aplicar técnicas e ferramentas para resolver problemas do mundo real, explorar dados e fornecer insights valiosos.
 
 📁 **Estrutura do Repositório**
-Os projetos neste repositório são organizados por pastas, onde cada pasta representa um trabalho ou desafio distinto. Cada projeto inclui os seguintes arquivos:
+
+**Os projetos neste repositório são organizados por pastas, onde cada pasta representa um trabalho ou desafio distinto. Cada projeto inclui os seguintes arquivos**:
 
 README.md: Descrição do projeto e seu propósito.
 
@@ -15,7 +16,8 @@ data/: Dados utilizados nos projetos (sempre que permitido).
 results/: Resultados das análises, gráficos e modelos gerados.
 
 🔍 **Tecnologias e Ferramentas Utilizadas**
-Abaixo estão algumas das tecnologias e ferramentas que utilizei ao longo dos projetos:
+
+**Abaixo estão algumas das tecnologias e ferramentas que utilizei ao longo dos projetos**:
 
 Python: A principal linguagem de programação utilizada.
 
@@ -33,8 +35,9 @@ SQL: Consultas e manipulação de dados em banco de dados.
 
 Jupyter Notebooks: Para documentação e execução interativa de código.
 
-📂 Projetos
-Aqui estão alguns dos projetos que você encontrará neste repositório:
+📂 **Projetos**
+
+**Aqui estão alguns dos projetos que você encontrará neste repositório**:
 
 **Análise de Dados de Vendas**
 
